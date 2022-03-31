@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Tim\Desktop\AmazonJavaBootcamp\2.1-VariablesAndExpressions\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
